@@ -1,0 +1,27 @@
+{
+  "name": "code-editor-browser",
+  "version": "1.0.0",
+  "description": "this is the code editor in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardedsailor/code-editor-browser-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Raghav Kapoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beardedsailor/code-editor-browser-js/issues"
+  },
+  "homepage": "https://github.com/beardedsailor/code-editor-browser-js#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
